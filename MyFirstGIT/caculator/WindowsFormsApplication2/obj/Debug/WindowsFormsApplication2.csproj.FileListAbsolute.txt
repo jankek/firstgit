@@ -1,0 +1,55 @@
+C:\Users\Ася\Desktop\универ\4 семестр\List\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+S:\18601\ЯнСен\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\учеба\Погуда\Лабы\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ася\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\1\Desktop\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\15\MyFirstGIT\caculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
